@@ -30,4 +30,9 @@
 - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 - [Moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 - [coil](https://github.com/coil-kt/coil)- for image loading
+- [Pager layouts](https://google.github.io/accompanist/pager/)
+- [Placeholder](https://google.github.io/accompanist/placeholder/)
+- [Splash screens](https://developer.android.com/develop/ui/views/launch/splash-screen)
+- [Lottie](https://lottiefiles.com/)
+
 
