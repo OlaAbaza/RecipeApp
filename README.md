@@ -5,8 +5,13 @@
  
 
 ## ▶ Demos
-<img src="/gifs/recipeAppGif1.gif" height=300" />
 
+<p>
+<img src="gifs/recipeAppGif1.gif" height="200" />
+<img src="gifs/recipeAppGif3.gif" height="200" />
+<img src="gifs/recipeAppGif2.gif" height="200" />
+<img src="gifs/recipeAppGif4.gif" height="200" />
+</p>
 
 
  ### Open API
