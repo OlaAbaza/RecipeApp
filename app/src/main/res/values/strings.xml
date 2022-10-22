@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+    <string name="skip_now">Skip Now</string>
+    <string name="get_started">Get Started</string>
+    <string name="discover_recipe">Discover Recipe</string>
+    <string name="header_subtitle">New Posted Recipe everyday</string>
+    <string name="featured">Featured</string>
+    <string name="see_more">SEE MORE</string>
+    <string name="see_less">SEE LESS</string>
+    <string name="favorite">Favorite</string>
+    <string name="detail_header">Details</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="search">Search</string>
+    <string name="gluten_free">Gluten free</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="vegan">Vegan</string>
+
+
+</resources>
