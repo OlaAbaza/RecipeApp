@@ -1,7 +1,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+
 <h1> 🧂🍴Recipe App 🍇🍗</h1>
 
- Recipe app using Jetpack Compose. 
+Android Application that displays a lot of recipes with different categories you can add them to your favorite list and you can also search for a specific recipe  
  
 
 ## ▶ Demos
@@ -14,7 +15,8 @@
 </p>
 
 
- ### Open API
+
+ ## Open API
   - [spoonacular API](https://spoonacular.com/food-api)
 
 ## Built With 🛠
