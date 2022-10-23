@@ -33,6 +33,6 @@
 - [Pager layouts](https://google.github.io/accompanist/pager/)
 - [Placeholder](https://google.github.io/accompanist/placeholder/)
 - [Splash screens](https://developer.android.com/develop/ui/views/launch/splash-screen)
-- [Lottie](https://lottiefiles.com/)
+- [Lottie](https://lottiefiles.com/) for loading animations with Compose.
 
 
